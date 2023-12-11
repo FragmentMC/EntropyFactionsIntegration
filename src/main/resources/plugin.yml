@@ -1,0 +1,9 @@
+name: EntropyFactionsIntegration
+version: '${project.version}'
+main: xyz.fragmentmc.entropyfactionsintegration.EntropyFactionsIntegration
+api-version: '1.20'
+prefix: EntropyFactionsIntegration
+authors: [ jesus_is_hot ]
+description: Integration for Entropy IsInCannonApi using factions bridge.
+website: fragmentmc.xyz
+depend: [ FactionsBridge ]
